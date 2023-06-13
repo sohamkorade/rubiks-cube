@@ -20,7 +20,7 @@ A Rubik's Cube simulator written using ThreeJS and vanilla JavaScript.
 
 ## Future Plans
 
-[] Implement solver algorithm myself
+- [ ] Implement solver algorithm myself
 
 ## Author
 
