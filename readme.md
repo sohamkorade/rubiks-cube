@@ -2,6 +2,8 @@
 
 A Rubik's Cube simulator written using ThreeJS and vanilla JavaScript.
 
+![screenshot](screenshot.png)
+
 ## Controls
 
 * Left click and drag to rotate the cube
